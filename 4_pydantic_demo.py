@@ -26,3 +26,20 @@ student = Student(**new_student)
 print(student)
 print(student.name)
 print(student.age)
+
+
+print('\n')
+
+# modifing it into a dictionary for ease of use and requirements
+dict_student = dict(student)
+print(dict_student)
+print(dict_student['name'])
+
+print('\n')
+
+
+# modifing into json format
+
+json_student = student.model_dump_json()
+print(json_student)
+
