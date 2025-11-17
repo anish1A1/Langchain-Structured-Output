@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 llm = HuggingFaceEndpoint(
-    repo_id= "meta-llama/Llama-3.1-8B-Instruct",
+    repo_id= "microsoft/Phi-3-mini-4k-instruct",
     task="text-generation"
 )
 
