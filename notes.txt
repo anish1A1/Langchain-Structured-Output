@@ -1,3 +1,5 @@
 The problem with typed Dict is that it does not provide data validation. An llm can provide different data type, when even the data type is mentioned in the TypedData.
 
-#Pydantic models helps to validate data type and if added wrong data type then it will give error 
+Pydantic models helps to validate data type and if added wrong data type then it will give error 
+
+If you have muliple Languages files in the project, then the best way to extract and use The Structured Output will be JSON Schema. 
