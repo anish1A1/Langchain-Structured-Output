@@ -37,10 +37,6 @@ Stunning 200MP camera with incredible zoom capabilities
 Long battery life with fast charging
 S-Pen support is unique and useful
 
-Cons: 
-Bulky and heavy-not great for one-handed use
-Bloatware still exist in One UI
-Expensive compared to competitors
                                  
 Review by Anish Jaiswal""")
     
